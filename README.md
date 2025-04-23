@@ -63,7 +63,10 @@ self.image_sub = self.create_subscription(
     qos_profile)
 ```
 
-The trained YOLOv11 models are included with the package. You'll just need to update the model paths in the code to match your system
+The trained YOLOv11 models are in the link below. You'll just need to update the model paths in the code to match your system
+```
+https://drive.google.com/drive/folders/1A7ZMifJnFLoJqVkPu4_7kpU6qIkRFfK3?usp=sharing
+```
 ```
 # In inference.py
 self.model = YOLO('......./pallet_ws/src/pallet_segmentation/models/pallet_detection/best.pt')
