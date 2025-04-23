@@ -1,0 +1,10 @@
+rclpy==1.3.0
+cv_bridge
+numpy
+opencv-python
+ultralytics==8.0.224 
+torch==2.1.0   
+matplotlib  
+-------------------------------------------------------------
+sudo apt-get install ros-humble-cv-bridge ros-humble-image-transport
+
