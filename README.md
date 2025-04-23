@@ -18,6 +18,12 @@ Both nodes use custom trained YOLOv11 models to perform computer vision tasks on
 - Optimized QoS profiles for reliable performance
 - Visualization outputs for debugging and monitoring
 
+## Images
+- Ground Segmentation
+![Ground Segmentation](ground_segmentation.jpeg)
+
+- Pallet Detection
+![Ground Segmentation](pallet_detection.jpeg)
 ## Prerequisites
 
 - ROS2 (tested on Humble)
