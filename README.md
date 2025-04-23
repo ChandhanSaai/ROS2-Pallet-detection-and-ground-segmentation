@@ -42,7 +42,7 @@ pip install numpy
 ## Installation
 Clone this repository:
 ```
-git clone https://github.com/ChandhanSaai
+git clone https://github.com/ChandhanSaai/ROS2-Pallet-detection-and-ground-segmentation.git
 ```
 Open the node file to modify:
 ```
